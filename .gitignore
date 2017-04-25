@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Allfiles/Labfiles/Lab03/Starter/ResDev/ResDevLinuxDeploy/.vs/ResDevLinuxDeploy/v14/.suo
+/Allfiles/Logs/Setup-Azure-3.log
+/Allfiles/Logs/Setup-Azure-4.log
